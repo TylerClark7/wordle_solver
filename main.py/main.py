@@ -27,40 +27,6 @@ for word in wordle_words:
     if word_inds == indexes:
         print(word)
 
-
-
-
-             
-
-    
-        
-
-#Take a word
-
-#take a string of letters and underscores
-
-#check each letter of the word and see if the letters index matches the index of same letter in string string
-
-
-
-#
-"""          
-for item in indexes:
-    print(item[0])
-"""
-
-
-
-
-
-
-
-
-        
-        
-
-
-
         
     
 
