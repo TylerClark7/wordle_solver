@@ -1,4 +1,4 @@
-with open("main.py\words.txt", "r") as file:
+with open("words.txt", "r") as file:
     words = [word.strip("\n") for word in file]
     wordle_words = [word.lower() for word in words if len(word) == 5]
 
